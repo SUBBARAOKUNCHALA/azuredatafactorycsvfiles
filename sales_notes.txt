@@ -1,0 +1,2 @@
+Practice file for Azure Data Factory.
+This file should be skipped because it is not a CSV.
